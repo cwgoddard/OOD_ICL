@@ -1,4 +1,5 @@
 # When can in-context learning generalize out of task distribution?
+### Chase Goddard, Lindsay M. Smith, Vudtiwat Ngampruetikorn*, and David J. Schwab*
 
 **Paper (ICML 2025):** [Arxiv](https://arxiv.org/abs/2506.05574), [OpenReview](https://openreview.net/forum?id=YKyza9lrv4)
 
