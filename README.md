@@ -4,7 +4,9 @@
 
 This repository contains the code for the paper *"When can in-context learning generalize out of task distribution?"*
 
-![schematic](fig_sphere.png) ![transition](transition.png)
+<p align="center">
+    <img src="fig_sphere.png" alt="Schematic" height="300"> <img src="transition.png" alt="Transition" height="300">
+</p>
 
 ## Citation
 
